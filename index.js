@@ -1,6 +1,7 @@
 console.log('v2') 
 
 
+
 //git init => to initialize the git in the current folder
 
 //git status
